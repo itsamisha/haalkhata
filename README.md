@@ -1,2 +1,2 @@
 # haalkhata
-An igraphics project to operate any shop implemented using C.
+An igraphics project implemented using C  to operate any shop.
